@@ -1,0 +1,77 @@
+// ===============================
+// YOUR COLORS AND FONTS (custom.scss)
+//
+// YOU DON'T HAVE TO CHANGE ANYTHING HERE.
+// As it is, your site uses the theme's own colors.
+// Come back when you want to make it more yours, one step at a time.
+//
+// ABOUT COMMENTS
+// In this file, comments start with //
+// To try a setting, delete the // at the start of that line.
+// To undo it, put the // back.
+//
+// HELPFUL LINKS
+// - How themes and this file work:
+//   https://quarto.org/docs/output-formats/html-themes.html
+// - Every setting you can change here (scroll to "Sass Variables"):
+//   https://quarto.org/docs/output-formats/html-themes.html#sass-variables
+// - Preview all themes: https://bootswatch.com
+// - Step-by-step workshop on customizing colors, fonts, and CSS
+//   (Sam Csik): https://ucsb-meds.github.io/customizing-quarto-websites
+// ===============================
+
+/*-- scss:defaults --*/
+// ^ Keep this line exactly as it is. All settings go below it.
+
+
+// ---- STEP 1: YOUR MAIN COLOR -------------------
+// Colors are written as hex codes: a # and six letters/numbers.
+// Your main color is used for links and buttons.
+// Find one: https://htmlcolorcodes.com
+// Or build a palette: https://coolors.co
+// $primary: #0021A5;
+
+
+// ---- STEP 2: THE MENU BAR ----------------------
+// The bar at the top of every page.
+// Tip: use your main color as the background and white text.
+// $navbar-bg: #0021A5;   // background
+// $navbar-fg: #ffffff;   // text and icons
+// $navbar-hl: #FA4616;   // the page you're on, and on mouse-over
+
+
+// ---- STEP 3: PAGE COLORS -----------------------
+// Check that your text is easy to read on your background:
+// https://webaim.org/resources/contrastchecker/
+// $body-bg: #ffffff;       // page background
+// $body-color: #222222;    // main text
+// $link-color: #FA4616;    // links only (otherwise links use $primary)
+// $footer-bg: #f5f5f5;     // footer background
+// $footer-fg: #555555;     // footer text
+
+
+// ---- STEP 4: FONTS -----------------------------
+// 1. Pick a font at https://fonts.google.com
+// 2. Click "Get font", then "Get embed code", and choose "@import".
+// 3. Copy the web address inside url(...) and paste it below.
+// 4. Put the font name in quotes on the next line.
+// @import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+// $font-family-sans-serif: 'Nunito', sans-serif;   // all text
+// $headings-font-family: 'Nunito', sans-serif;     // headings only
+// $font-size-base: 1.05rem;                        // text size (1rem = default)
+
+
+/*-- scss:rules --*/
+// ^ Keep this line exactly as it is.
+
+// ---- STEP 5: GOING FURTHER (optional) ----------
+// Below here you can write CSS to style specific parts of your site.
+// Ready for more? This workshop walks through it step by step:
+// https://ucsb-meds.github.io/customizing-quarto-websites
+// Tip: in your browser, right-click any part of your site and choose
+// "Inspect" to see what it's called, so you know what to style.
+//
+// Example: color your section headings. Delete the // on all 3 lines.
+// h2 {
+//   color: #0021A5;
+// }

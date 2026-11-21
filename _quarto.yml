@@ -1,0 +1,95 @@
+# ===============================
+# SITE SETTINGS (_quarto.yml)
+# This file controls your whole website: its title, menu, and look.
+# Edit the lines marked FIXME.
+#
+# ABOUT COMMENTS
+# Lines starting with # are comments: notes for you.
+# They never show on your website.
+#
+# CAREFUL WITH SPACING
+# Spaces at the start of each line matter in this file.
+# Keep the indentation exactly as it is, and use spaces, not tabs.
+# ===============================
+
+project:
+  type: website
+
+website:
+  title: "Your Name"                          # FIXME: shows in the top-left corner
+  site-url: "https://YOUR-USERNAME.github.io" # FIXME: your GitHub username
+
+  # ---- EXTRA SITE OPTIONS (optional) ------
+  # To turn one on, delete the # at the start of that line only.
+  # All site options: https://quarto.org/docs/reference/projects/websites.html
+  # favicon: images/favicon.png      # small icon in the browser tab
+  # search: false                    # hide the search box (on by default)
+  # back-to-top-navigation: true     # "Back to top" link on long pages
+  # page-navigation: true            # Next/Previous links between pages
+  # reader-mode: true                # button that hides the menu for easy reading
+  # open-graph: true                 # nicer previews when your link is shared
+  # repo-url: https://github.com/YOUR-USERNAME/YOUR-USERNAME.github.io
+  # repo-actions: [source]           # "View source" link (needs repo-url above)
+
+  # ---- YOUR MENU ------ the navbar section below
+  # Each page in the menu is two lines: the file and the menu label.
+  #
+  # TO ADD A PAGE:
+  # 1. Make a new file ending in .qmd (e.g. teaching.qmd).
+  #    Easiest way: copy research.qmd and rename it.
+  # 2. Copy the example at the end of the menu list below,
+  #    then delete the # at the start of both lines.
+  #
+  # TO REMOVE A PAGE: delete its two lines.
+  # TO RENAME A PAGE IN THE MENU: change its "text:" line.
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: cv.qmd
+        text: CV
+      # - href: teaching.qmd
+      #   text: Teaching
+    right:
+      - icon: github
+        href: https://github.com/YOUR-USERNAME   # FIXME
+        aria-label: GitHub
+      - icon: envelope
+        href: mailto:you@ufl.edu                 # FIXME
+        aria-label: Email
+  page-footer:
+    left: "© 2026 Your Name"                     # FIXME
+    right: "Built with [Quarto](https://quarto.org)"
+
+# ---- YOUR SITE'S LOOK -----------------------
+# Two pieces work together:
+#
+# 1. THEME: the overall style (fonts, spacing, base colors).
+#    Change "cosmo" below to try another. Some to try:
+#    flatly, litera, lux, minty, sandstone, zephyr
+#
+# 2. custom.scss: your own colors and fonts, layered on top.
+#    Open that file to make changes.
+#
+# MORE INFO: this page shows every theme and explains custom.scss:
+# https://quarto.org/docs/output-formats/html-themes.html
+format:
+  html:
+    theme:
+      - cosmo
+      - custom.scss
+
+    # ---- EXTRA PAGE OPTIONS (optional) ----
+    # To turn one on, delete the # at the start of that line only.
+    # All page options: https://quarto.org/docs/reference/formats/html.html
+    # toc: true                      # "On this page" contents list
+    # toc-location: left             # where it goes: left, right, or body
+    # toc-title: "Contents"          # title of the contents list
+    # page-layout: full              # use the full screen width (default: article)
+    # fontsize: 1.1em                # make all text bigger or smaller
+    # linestretch: 1.6               # space between lines
+    # link-external-newwindow: true  # open links to other sites in a new tab
+    # smooth-scroll: true            # smooth scrolling to sections

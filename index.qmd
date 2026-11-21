@@ -1,0 +1,106 @@
+---
+# ===============================
+# HOME PAGE (index.qmd)
+# This is the first page people see. Edit the lines marked FIXME.
+#
+# ABOUT COMMENTS
+# Comments are notes for you. They never show on your website.
+# This file has two parts, and each part writes comments differently:
+#
+#   PART 1: the settings, between the two --- lines (where you are now)
+#           A comment starts with #
+#
+#   PART 2: the page text, below the second ---
+#           A comment is wrapped like this: <!-- your comment -->
+#           (In Part 2, a line starting with # becomes a heading.)
+# ===============================
+title: "Your Name"                 # FIXME
+subtitle: "PhD/MS Student, Your Department, University of Florida" # FIXME
+
+# ---- YOUR PHOTO ---
+# 1. On GitHub, open the "images" folder.
+# 2. Click "Add file" > "Upload files" and drag in your photo.
+#    Tip: a square photo (e.g. 500 x 500 pixels) looks best.
+# 3. Change the line below to match your file name EXACTLY,
+#    including capital letters and the ending (.jpg, .png).
+#    Example: images/jane-doe.jpg
+image: images/profile.svg                              # FIXME
+
+about:
+  template: jolla      # Layout. Other options: trestles, solana, marquee, broadside https://quarto.org/docs/websites/website-about.html
+  image-shape: round   # Other options: rounded, rectangle
+  image-alt: type your alt text
+  links:               # Buttons under your photo. Delete any you don't use.
+    - icon: github
+      text: GitHub
+      href: https://github.com/YOUR-USERNAME          # FIXME
+    - icon: linkedin                                  
+      text: LinkedIn
+      href: https://www.linkedin.com/in/YOUR-NAME    # FIXME 
+    - icon: envelope
+      text: Email
+      href: mailto:you@ufl.edu                         # FIXME
+---
+
+<!-- You are now in PART 2: the page text. Comments look like this one. -->
+
+<!--
+  ABOUT YOU (everything below this box shows on your page)
+
+  Write 2 to 4 short sentences: what you study, why it matters,
+  what methods you use, and what you did before graduate school.
+
+  Not sure how to describe yourself? These can help:
+  - Building a brand as a scientist (Stephanie Hicks):
+    https://stephaniehicks.com/blog/building-a-brand-as-a-scientist
+  - Personal branding for scientists, foundations first (The Science Talk):
+    https://thesciencetalk.com/news/blog-perspectives/personal-branding-for-scientists-foundations-before-content/
+  - Get an ORCID iD so your work is linked to you: https://orcid.org
+-->
+
+::: {.callout-warning}
+## FIXME: This site is still the template
+Replace the placeholder text on each page, then delete this box (everything from `::: {.callout-warning}` to the closing `:::`).
+:::
+
+<!--
+  FORMATTING CHEAT SHEET
+  The text below already uses each of these. Look at how it is
+  written here, then compare it to how it looks on your live site.
+
+  **bold text**              -> bold
+  *italic text*              -> italic
+  [link text](https://...)   -> a clickable link
+  ## Heading                 -> a section heading (more # = smaller)
+  - item                     -> a bullet point
+  A blank line               -> starts a new paragraph
+
+  More: https://quarto.org/docs/authoring/markdown-basics.html
+-->
+
+Hi! I'm a **[PhD/MS] student** in the [Your Department](https://www.ufl.edu) at the University of Florida. I study **[your topic]**, and I'm interested in *[one big question you want to answer]*.
+
+I use [your methods or tools, e.g. field surveys, R, GIS] to [what you do with them].
+
+Before grad school, I [one line about where you came from].
+
+## Find my work
+
+- [Google Scholar](https://scholar.google.com) <!-- FIXME: your profile link, or delete -->
+- [ORCID](https://orcid.org) <!-- FIXME: your ORCID link, or delete -->
+
+<!--
+  ORGANIZING YOUR WEBSITE
+
+  Keep this home page short: who you are, what you study, and
+  how to reach you. Visitors decide in a few seconds whether to
+  keep reading, so put your most important line first.
+
+  Each page has one job:
+  - Home (this page): a quick introduction
+  - Research: your projects, publications, and presentations
+  - CV: your full education and experience
+
+  Want another page (Teaching, Outreach, Blog)? See the
+  instructions at the top of _quarto.yml.
+-->

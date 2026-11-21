@@ -1,0 +1,73 @@
+# ===============================
+# PUBLISH WEBSITE (publish.yml)
+# This file publishes your website every time you commit a change.
+# You don't need to edit it.
+#
+# What it does:
+# 1. Checks whether GitHub Pages is turned on for this repository
+# 2. Gets your files and installs Quarto
+# 3. Builds your website
+# 4. Publishes it to https://YOUR-USERNAME.github.io
+#    (only if Pages is turned on; otherwise it leaves you a note)
+#
+# Watch it run in the "Actions" tab of your repository.
+# ===============================
+
+name: Publish website
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:   # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check that GitHub Pages is turned on
+        id: pages
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if gh api "repos/${{ github.repository }}/pages" --silent 2>/dev/null; then
+            echo "enabled=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "enabled=false" >> "$GITHUB_OUTPUT"
+            echo "::warning title=One more step to publish your site::Go to Settings > Pages and set Source to GitHub Actions. Then come back to the Actions tab, click Publish website, and click Run workflow."
+          fi
+
+      - name: Get the files
+        uses: actions/checkout@v5
+
+      - name: Install Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Build the website
+        run: quarto render
+
+      - name: Set up GitHub Pages
+        if: steps.pages.outputs.enabled == 'true'
+        uses: actions/configure-pages@v5
+
+      - name: Upload the website
+        if: steps.pages.outputs.enabled == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Publish the website
+        if: steps.pages.outputs.enabled == 'true'
+        id: deployment
+        uses: actions/deploy-pages@v4

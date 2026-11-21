@@ -1,0 +1,56 @@
+---
+# ===============================
+# CV PAGE (cv.qmd)
+# Shows your CV and lets people download it.
+#
+# ABOUT COMMENTS
+# Comments are notes for you. They never show on your website.
+#   PART 1: the settings, between the two --- lines (where you are now)
+#           A comment starts with #
+#   PART 2: the page text, below the second ---
+#           A comment is wrapped like this: <!-- your comment -->
+# ===============================
+
+# ---- PAGE TITLE ----
+# Change it to anything, e.g. "CV", "Resume", "Experience".
+# The menu label is separate: edit it in _quarto.yml.
+title: "Curriculum Vitae"
+
+# This line makes sure your PDF gets published with your site.
+# Leave it as is.
+resources:
+  - cv.pdf
+---
+
+<!-- You are now in PART 2: the page text. Comments look like this one. -->
+
+<!--
+  ADD YOUR CV
+  Right now this page shows a placeholder PDF.
+  1. Save your CV as a PDF and name it exactly: cv.pdf
+  2. On GitHub, go to the main page of your repository
+     (NOT the images folder).
+  3. Click "Add file" > "Upload files" and drag in cv.pdf.
+     It replaces the placeholder automatically.
+  4. Commit. Your new CV shows up in 1 to 2 minutes.
+
+  Updating your CV later? Repeat the same steps.
+-->
+
+[Download my CV (PDF)](cv.pdf){.btn .btn-primary}
+
+<!--
+  This shows your CV right on the page.
+  height: how tall the viewer is. Try 800px or 1200px.
+  DON'T WANT IT SHOWN ON THE PAGE? Delete the line below
+  and keep only the download button.
+-->
+
+<embed src="cv.pdf" type="application/pdf" width="100%" height="1000px">
+
+<!--
+  PREFER TO WRITE YOUR CV HERE INSTEAD?
+  Delete the button and viewer above, then write it in Markdown, e.g.
+  ## Education
+  **PhD, Field** | University of Florida | 20XX to present
+-->
