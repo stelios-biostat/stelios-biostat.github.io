@@ -12,7 +12,7 @@ title: "Research & Projects"
 
 **Supervisor:** [Associate Professor Alexandra Papadopoulou](https://math.auth.gr/en/member/papadopoulou-alexandra/), Department of Mathematics, Aristotle University of Thessaloniki.
 
-The thesis applied Markov chain theory and R to the study of cancer metastasis patterns based on data from 3,827 autopsies.
+Using a dataset of **3,827 autopsies**, I applied Markov chain models in **R** to investigate patterns of cancer spread between anatomical sites.
 :::
 
 ::: {.thesis-preview}
@@ -48,15 +48,13 @@ The project received a **silver medal** at the 2022 iGEM competition.
 
 ::: {.kalamari-layout}
 ::: {.kalamari-text}
-**Conference contribution · Mathematics education · Proceedings (2026), pp. 63–76**
+**2026 proceedings · Conference contribution · pp. 63–76**
 
 **Sfondylis, S., & Moustakas, D.** *From the Blackboard to Adventure: A Mathematical “Treasure Hunt” for Congruent Triangles.*
 
-This paper describes a classroom teaching activity developed during the Mathematics Teaching Practicum at Aristotle University of Thessaloniki. Ninth-grade students applied the **criteria for triangle congruence** through a mathematical treasure hunt, combining experiential, cooperative, inquiry-based and game-based learning.
+Developed during the Mathematics Teaching Practicum at Aristotle University of Thessaloniki, this classroom activity engaged ninth-grade students in applying the **criteria for triangle congruence** through a mathematical treasure hunt. It combined cooperative, inquiry-based and game-based learning to encourage participation and mathematical reasoning.
 
-The activity encouraged active participation and mathematical reasoning; the authors report positive responses from students and teachers.
-
-**Published in:** *Conference on Mathematics and Their Teaching*, École Franco-Hellénique de Kalamari, Thessaloniki, 2026 proceedings, **pp. 63–76**.
+**Proceedings:** *Conference on Mathematics and Their Teaching*, École Franco-Hellénique de Kalamari, Thessaloniki.
 
 [Read the paper in the proceedings (p. 63)](https://www.kalamari.gr/images/2026/Praktika%202026_maths.pdf#page=63) · [Conference website](https://www.kalamari.gr/index.php/upcoming-events/events/synedrio-maths)
 :::
@@ -74,9 +72,7 @@ The activity encouraged active participation and mathematical reasoning; the aut
 ::: {.accessibility-text}
 **2025 · Social Contribution Award · Faculty of Sciences, Aristotle University of Thessaloniki**
 
-I created an **accessibility video guide for people with disabilities**, documenting accessible routes and facilities within the Department of Mathematics, the Faculty of Sciences, and the wider Aristotle University of Thessaloniki campus. The guide is featured on the Department of Mathematics' official accessibility page.
-
-For this initiative and its contribution to disability awareness and inclusion, I received the **2025 Social Contribution Award from the Faculty of Sciences** at Aristotle University of Thessaloniki.
+I created an **accessibility video guide for people with disabilities**, documenting accessible routes and facilities within the Department of Mathematics, the Faculty of Sciences, and the wider Aristotle University of Thessaloniki campus. Featured on the Department of Mathematics' official accessibility page, the initiative supports more inclusive access to university facilities.
 
 [Official Department of Mathematics accessibility page](https://math.auth.gr/en/access/) · [Watch the accessibility video on YouTube](https://www.youtube.com/watch?v=ztu2QVhWIkw) · [University award announcement (PDF)](https://www.auth.gr/wp-content/uploads/ANNOUNCEMENT-5.pdf)
 :::
