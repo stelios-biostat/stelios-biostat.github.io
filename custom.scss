@@ -88,3 +88,12 @@ ul li { margin-bottom: .4rem; }
 .igem-preview img { display: block; width: 100%; max-width: 205px; max-height: 210px; object-fit: contain; border-radius: 9px; }
 .igem-preview small { display: block; margin-top: .55rem; color: #52647b; font-size: .78rem; }
 @media (max-width: 620px) { .igem-layout { grid-template-columns: 1fr; } .igem-preview { text-align: left; } .igem-preview img { max-width: 165px; } }
+
+/* Conference paper preview aligned with the abstract */
+.kalamari-layout { display: grid; grid-template-columns: minmax(0, 1fr) 185px; gap: 1.6rem; align-items: start; margin: 1.2rem 0 2rem; }
+.kalamari-text { min-width: 0; }
+.kalamari-preview { text-align: center; }
+.kalamari-preview img { display: block; width: 100%; max-width: 185px; height: 245px; object-fit: cover; object-position: top; border: 1px solid #dbe4ef; border-radius: 6px; box-shadow: 0 5px 18px rgba(20,43,73,.1); transition: transform .2s ease; }
+.kalamari-preview a:hover img { transform: translateY(-3px); }
+.kalamari-preview small { display: block; margin-top: .45rem; color: #52647b; font-size: .78rem; }
+@media (max-width: 620px) { .kalamari-layout { grid-template-columns: 1fr; } .kalamari-preview { text-align: left; } .kalamari-preview img { max-width: 160px; height: 210px; } }
