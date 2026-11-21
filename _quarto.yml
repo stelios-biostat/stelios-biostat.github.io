@@ -24,6 +24,10 @@ website:
 
 format:
   html:
+    grid:
+      body-width: 1080px
+      margin-width: 0px
+      gutter-width: 1.5rem
     theme:
       - cosmo
       - custom.scss
