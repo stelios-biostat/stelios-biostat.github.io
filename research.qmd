@@ -8,7 +8,7 @@ title: "Research & Projects"
 ::: {.thesis-text}
 **2024 · Undergraduate thesis**
 
-**Using Markov Chain Theory and R to Describe Cancer Metastasis Patterns Based on 3,827 Autopsies**
+*Using Markov Chain Theory and R to Describe Cancer Metastasis Patterns Based on 3,827 Autopsies*
 
 **Supervisor:** [Associate Professor Alexandra Papadopoulou](https://math.auth.gr/en/member/papadopoulou-alexandra/), Department of Mathematics, Aristotle University of Thessaloniki.
 
