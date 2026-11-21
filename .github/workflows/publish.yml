@@ -14,6 +14,7 @@
 # ===============================
 
 name: Publish website
+run-name: Publish website - ${{ github.sha }}
 
 on:
   push:
@@ -32,6 +33,7 @@ concurrency:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
