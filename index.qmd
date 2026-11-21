@@ -1,5 +1,6 @@
 ---
 title: "Stylianos Sfondylis"
+subtitle: "MSc Student in Biostatistics | University of Zurich"
 about:
   template: trestles
   links:
@@ -8,6 +9,25 @@ about:
       href: https://github.com/stelios-biostat
 ---
 
-Welcome to my personal website.
+I am an MSc student in **Biostatistics at the University of Zurich**, with a BSc in **Mathematics from Aristotle University of Thessaloniki**.
 
-This site will feature my academic background, research interests, and projects. More information will be added soon.
+My academic background combines mathematics, statistical computing, and applications in health and life sciences. My undergraduate project used **Markov chain theory and R** to examine patterns of cancer metastasis using data from 3,827 autopsies.
+
+I have also contributed to an award-winning synthetic biology project with **iGEM Thessaloniki**, and have experience in academic evaluation, data analysis, and international inclusion-focused projects.
+
+## Education
+
+**MSc in Biostatistics** — University of Zurich, 2026–present
+
+**BSc in Mathematics** — Aristotle University of Thessaloniki, 2019–2024
+
+Graduated with a grade of 7.91/10, ranking 13th among 137 graduates.
+
+## Selected highlights
+
+- **iGEM Thessaloniki:** Team member and group leader; silver medal in the 2022 competition.
+- **Academic recognition:** Award from the School of Sciences at Aristotle University of Thessaloniki in 2025 for an accessibility video guide.
+- **Academic evaluation:** Accreditation panel member for the Hellenic Authority for Higher Education (2021–2024).
+- **Conference presentation:** Co-presented work on a mathematical treasure hunt for teaching triangles (2025).
+
+For more detail, see [Research](research.qmd) and [CV](cv.qmd).
