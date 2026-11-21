@@ -22,11 +22,27 @@ The thesis applied Markov chain theory and R to the study of cancer metastasis p
 :::
 :::
 
-## iGEM Thessaloniki
+## iGEM Thessaloniki — Theriac
 
-**2021–2022 · Synthetic biology project**
+::: {.igem-layout}
+::: {.igem-text}
+**2021–2022 · Synthetic biology · Silver medal (2022)**
 
-As a team member and group leader, I contributed to a synthetic biology project exploring a new approach to diagnosing and treating brain cancer. The team received a **silver medal** at the iGEM competition.
+As a **team member and group leader** of iGEM Thessaloniki, I contributed to **Theriac**, a synthetic biology project focused on glioblastoma.
+
+The team proposed a molecular *theranostic* approach combining cancer-cell detection and therapeutic action. The concept uses DNA-based molecular components and explores intranasal delivery to address the blood–brain barrier.
+
+The project received a **silver medal** at the 2022 iGEM competition.
+
+[Explore the official Theriac project website](https://2022.igem.wiki/thessaloniki/index) · [Project description](https://2022.igem.wiki/thessaloniki/description)
+:::
+
+::: {.igem-preview}
+<a href="https://2022.igem.wiki/thessaloniki/index" target="_blank" rel="noopener noreferrer" aria-label="Visit the official iGEM Thessaloniki Theriac project"><img src="images/igemgit.png" alt="Theriac project logo — iGEM Thessaloniki 2022" loading="lazy"></a>
+
+<small>Theriac · iGEM Thessaloniki 2022</small>
+:::
+:::
 
 ## Mathematics education
 
