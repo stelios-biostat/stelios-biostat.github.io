@@ -1,6 +1,6 @@
 ---
 title: "Stylianos Sfondylis"
-subtitle: "MSc Student in Biostatistics | University of Zurich"
+subtitle: "MSc Biostatistics Student<br><span class=\"academic-affiliation\">University of Zurich</span>"
 image: images/stylianos.PNG
 about:
   template: trestles
