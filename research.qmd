@@ -6,7 +6,7 @@ title: "Research & Projects"
 
 ::: {.thesis-layout}
 ::: {.thesis-text}
-**2018–2019 · Thesis**
+**2024 · Undergraduate thesis**
 
 **Using Markov Chain Theory and R to Describe Cancer Metastasis Patterns Based on 3,827 Autopsies**
 
