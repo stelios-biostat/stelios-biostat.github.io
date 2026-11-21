@@ -6,10 +6,6 @@ about:
   template: trestles
   image-shape: rounded
   image-width: 240px
-  links:
-    - icon: github
-      text: GitHub
-      href: https://github.com/stelios-biostat
 ---
 
 I am an MSc student in **Biostatistics at the University of Zurich**, with a BSc in **Mathematics from Aristotle University of Thessaloniki**.
