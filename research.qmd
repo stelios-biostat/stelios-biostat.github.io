@@ -4,6 +4,8 @@ title: "Research & Projects"
 
 ## Undergraduate thesis: Markov chains and cancer metastasis
 
+::: {.thesis-layout}
+::: {.thesis-text}
 **2018–2019 · Thesis**
 
 **Using Markov Chain Theory and R to Describe Cancer Metastasis Patterns Based on 3,827 Autopsies**
@@ -11,13 +13,14 @@ title: "Research & Projects"
 **Supervisor:** [Associate Professor Alexandra Papadopoulou](https://math.auth.gr/en/member/papadopoulou-alexandra/), Department of Mathematics, Aristotle University of Thessaloniki.
 
 The thesis applied Markov chain theory and R to the study of cancer metastasis patterns based on data from 3,827 autopsies.
-
-::: {.thesis-cover}
-[![First page of the undergraduate thesis](images/EidikoThema.png){fig-alt="First page of the undergraduate thesis", width="340px"}](images/EidikoThema.png)
-
-*Click the image to view the thesis cover at full size.*
 :::
 
+::: {.thesis-preview}
+<a href="images/EidikoThema.png" target="_blank" rel="noopener noreferrer" aria-label="Open the first page of the thesis at full size"><img src="images/EidikoThema.png" alt="First page of the undergraduate thesis" loading="lazy"></a>
+
+<small>Click to enlarge</small>
+:::
+:::
 
 ## iGEM Thessaloniki
 
