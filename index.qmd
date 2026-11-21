@@ -3,6 +3,9 @@ title: "Stylianos Sfondylis"
 subtitle: "MSc Student in Biostatistics | University of Zurich"
 about:
   template: trestles
+  image: images/stylianos.PNG
+  image-shape: rounded
+  image-width: 240px
   links:
     - icon: github
       text: GitHub
