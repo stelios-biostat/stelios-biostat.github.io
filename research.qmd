@@ -2,6 +2,46 @@
 title: "Research & Projects"
 ---
 
+## Mathematics education — Conference presentation
+
+::: {.kalamari-layout}
+::: {.kalamari-text}
+**2026 proceedings · Conference contribution · pp. 63–76**
+
+**Sfondylis, S., & Moustakas, D.** *From the Blackboard to Adventure: A Mathematical “Treasure Hunt” for Congruent Triangles.*
+
+Developed during the Mathematics Teaching Practicum at Aristotle University of Thessaloniki, this classroom activity engaged ninth-grade students in applying the **criteria for triangle congruence** through a mathematical treasure hunt. It combined cooperative, inquiry-based and game-based learning to encourage participation and mathematical reasoning.
+
+**Proceedings:** *Conference on Mathematics and Their Teaching*, École Franco-Hellénique de Kalamari, Thessaloniki.
+
+[Read the paper in the proceedings (p. 63)](https://www.kalamari.gr/images/2026/Praktika%202026_maths.pdf#page=63) · [Conference website](https://www.kalamari.gr/index.php/upcoming-events/events/synedrio-maths)
+:::
+
+::: {.kalamari-preview}
+<a href="images/Kalamari.png" target="_blank" rel="noopener noreferrer" aria-label="View the conference group photo"><img src="images/Kalamari.png" alt="Group photo from the mathematics education conference at Kalamari" loading="lazy"></a>
+
+<small>Conference group photo · Click to enlarge</small>
+:::
+:::
+
+## Accessibility in higher education
+
+::: {.accessibility-layout}
+::: {.accessibility-text}
+**2025 · Social Contribution Award · Faculty of Sciences, Aristotle University of Thessaloniki**
+
+I created an **accessibility video guide for people with disabilities**, documenting accessible routes and facilities within the Department of Mathematics, the Faculty of Sciences, and the wider Aristotle University of Thessaloniki campus. Featured on the Department of Mathematics' official accessibility page, the initiative supports more inclusive access to university facilities.
+
+[Official Department of Mathematics accessibility page](https://math.auth.gr/en/access/) · [Watch the accessibility video on YouTube](https://www.youtube.com/watch?v=ztu2QVhWIkw) · [University award announcement (PDF)](https://www.auth.gr/wp-content/uploads/ANNOUNCEMENT-5.pdf)
+:::
+
+::: {.accessibility-preview}
+<a href="images/ameagit.png" target="_blank" rel="noopener noreferrer" aria-label="View accessibility initiative photo at full size"><img src="images/ameagit.png" alt="Photo accompanying the accessibility initiative at Aristotle University of Thessaloniki" loading="lazy"></a>
+
+<small>Accessibility initiative · Click to enlarge</small>
+:::
+:::
+
 ## Undergraduate thesis: Markov chains and cancer metastasis
 
 ::: {.thesis-layout}
@@ -41,45 +81,5 @@ The project received a **silver medal** at the 2022 iGEM competition.
 <a href="https://2022.igem.wiki/thessaloniki/index" target="_blank" rel="noopener noreferrer" aria-label="Visit the official iGEM Thessaloniki Theriac project"><img src="images/igemgit.png" alt="Theriac project logo — iGEM Thessaloniki 2022" loading="lazy"></a>
 
 <small>Theriac · iGEM Thessaloniki 2022</small>
-:::
-:::
-
-## Mathematics education — Conference presentation
-
-::: {.kalamari-layout}
-::: {.kalamari-text}
-**2026 proceedings · Conference contribution · pp. 63–76**
-
-**Sfondylis, S., & Moustakas, D.** *From the Blackboard to Adventure: A Mathematical “Treasure Hunt” for Congruent Triangles.*
-
-Developed during the Mathematics Teaching Practicum at Aristotle University of Thessaloniki, this classroom activity engaged ninth-grade students in applying the **criteria for triangle congruence** through a mathematical treasure hunt. It combined cooperative, inquiry-based and game-based learning to encourage participation and mathematical reasoning.
-
-**Proceedings:** *Conference on Mathematics and Their Teaching*, École Franco-Hellénique de Kalamari, Thessaloniki.
-
-[Read the paper in the proceedings (p. 63)](https://www.kalamari.gr/images/2026/Praktika%202026_maths.pdf#page=63) · [Conference website](https://www.kalamari.gr/index.php/upcoming-events/events/synedrio-maths)
-:::
-
-::: {.kalamari-preview}
-<a href="images/Kalamari.png" target="_blank" rel="noopener noreferrer" aria-label="View the conference group photo"><img src="images/Kalamari.png" alt="Group photo from the mathematics education conference at Kalamari" loading="lazy"></a>
-
-<small>Conference group photo · Click to enlarge</small>
-:::
-:::
-
-## Accessibility in higher education
-
-::: {.accessibility-layout}
-::: {.accessibility-text}
-**2025 · Social Contribution Award · Faculty of Sciences, Aristotle University of Thessaloniki**
-
-I created an **accessibility video guide for people with disabilities**, documenting accessible routes and facilities within the Department of Mathematics, the Faculty of Sciences, and the wider Aristotle University of Thessaloniki campus. Featured on the Department of Mathematics' official accessibility page, the initiative supports more inclusive access to university facilities.
-
-[Official Department of Mathematics accessibility page](https://math.auth.gr/en/access/) · [Watch the accessibility video on YouTube](https://www.youtube.com/watch?v=ztu2QVhWIkw) · [University award announcement (PDF)](https://www.auth.gr/wp-content/uploads/ANNOUNCEMENT-5.pdf)
-:::
-
-::: {.accessibility-preview}
-<a href="images/ameagit.png" target="_blank" rel="noopener noreferrer" aria-label="View accessibility initiative photo at full size"><img src="images/ameagit.png" alt="Photo accompanying the accessibility initiative at Aristotle University of Thessaloniki" loading="lazy"></a>
-
-<small>Accessibility initiative · Click to enlarge</small>
 :::
 :::
