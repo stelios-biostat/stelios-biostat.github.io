@@ -52,8 +52,6 @@ The project received a **silver medal** at the 2022 iGEM competition.
 
 **Sfondylis, S., & Moustakas, D.** *From the Blackboard to Adventure: A Mathematical “Treasure Hunt” for Congruent Triangles.*
 
-**Original title:** *Από τον πίνακα στην περιπέτεια: Ένα μαθηματικό «κυνήγι θησαυρού» για τα ίσα τρίγωνα.*
-
 This paper describes a classroom teaching activity developed during the Mathematics Teaching Practicum at Aristotle University of Thessaloniki. Ninth-grade students applied the **criteria for triangle congruence** through a mathematical treasure hunt, combining experiential, cooperative, inquiry-based and game-based learning.
 
 The activity encouraged active participation and mathematical reasoning; the authors report positive responses from students and teachers.
