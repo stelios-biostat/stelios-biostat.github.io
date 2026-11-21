@@ -48,17 +48,19 @@ The project received a **silver medal** at the 2022 iGEM competition.
 
 ::: {.kalamari-layout}
 ::: {.kalamari-text}
-**Conference presentation · Mathematics education**
+**Conference contribution · Mathematics education · Proceedings (2026), pp. 63–76**
 
-**Sfondylis, S., & Moustakas, D.** *From the Blackboard to Adventure: A Mathematical “Treasure Hunt” for Triangle.*
+**Sfondylis, S., & Moustakas, D.** *From the Blackboard to Adventure: A Mathematical “Treasure Hunt” for Congruent Triangles.*
 
-A mathematics education presentation exploring a classroom treasure-hunt activity for teaching triangles, bringing together mathematical problem-solving and an interactive learning experience.
+**Original title:** *Από τον πίνακα στην περιπέτεια: Ένα μαθηματικό «κυνήγι θησαυρού» για τα ίσα τρίγωνα.*
 
-Presented at the **Conference on Mathematics and Their Teaching**, École Franco-Hellénique de Kalamari, Thessaloniki.
+This paper describes a classroom teaching activity developed during the Mathematics Teaching Practicum at Aristotle University of Thessaloniki. Ninth-grade students applied the **criteria for triangle congruence** through a mathematical treasure hunt, combining experiential, cooperative, inquiry-based and game-based learning.
 
-[Conference website](https://www.kalamari.gr/index.php/upcoming-events/events/synedrio-maths) · [2026 conference proceedings (PDF)](https://www.kalamari.gr/images/2026/Praktika%202026_maths.pdf)
+The activity encouraged active participation and mathematical reasoning; the authors report positive responses from students and teachers.
 
-<small>The exact pages of this contribution in the proceedings have not yet been verified.</small>
+**Published in:** *Conference on Mathematics and Their Teaching*, École Franco-Hellénique de Kalamari, Thessaloniki, 2026 proceedings, **pp. 63–76**.
+
+[Read the paper in the proceedings (p. 63)](https://www.kalamari.gr/images/2026/Praktika%202026_maths.pdf#page=63) · [Conference website](https://www.kalamari.gr/index.php/upcoming-events/events/synedrio-maths)
 :::
 
 ::: {.kalamari-preview}
