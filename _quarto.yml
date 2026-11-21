@@ -12,6 +12,12 @@ website:
         text: Education
       - href: research.qmd
         text: Research
+      - href: experience.qmd
+        text: Experience
+      - href: awards.qmd
+        text: Awards
+      - href: media.qmd
+        text: Media
       - href: cv.qmd
         text: CV
     right:
