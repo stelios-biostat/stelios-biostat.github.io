@@ -100,3 +100,12 @@ ul li { margin-bottom: .4rem; }
 
 /* Research: reduce excessive whitespace between thesis and next project */
 .thesis-layout + h2 { margin-top: 1.35rem; }
+
+/* Accessibility initiative: responsive photo beside award details */
+.accessibility-layout { display: grid; grid-template-columns: minmax(0, 1fr) 260px; gap: 1.6rem; align-items: start; margin: 1.2rem 0 1.2rem; }
+.accessibility-text { min-width: 0; }
+.accessibility-preview { text-align: center; }
+.accessibility-preview img { display: block; width: 100%; max-width: 260px; height: auto; object-fit: contain; border: 1px solid #dbe4ef; border-radius: 7px; box-shadow: 0 5px 18px rgba(20,43,73,.1); transition: transform .2s ease; }
+.accessibility-preview a:hover img { transform: translateY(-3px); }
+.accessibility-preview small { display: block; margin-top: .45rem; color: #52647b; font-size: .78rem; }
+@media (max-width: 620px) { .accessibility-layout { grid-template-columns: 1fr; } .accessibility-preview { text-align: left; } .accessibility-preview img { max-width: 260px; } }
