@@ -64,9 +64,9 @@ The activity encouraged active participation and mathematical reasoning; the aut
 :::
 
 ::: {.kalamari-preview}
-<a href="images/Kalamari.png" target="_blank" rel="noopener noreferrer" aria-label="View the first page of the mathematics education contribution"><img src="images/Kalamari.png" alt="First page of the mathematics education conference contribution in Greek" loading="lazy"></a>
+<a href="images/Kalamari.png" target="_blank" rel="noopener noreferrer" aria-label="View the conference group photo"><img src="images/Kalamari.png" alt="Group photo from the mathematics education conference at Kalamari" loading="lazy"></a>
 
-<small>First page · Click to enlarge</small>
+<small>Conference group photo · Click to enlarge</small>
 :::
 :::
 
