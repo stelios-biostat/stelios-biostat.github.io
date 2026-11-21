@@ -15,7 +15,7 @@ $font-size-base: 1.05rem;
 /*-- scss:rules --*/
 :root { --academic-navy: #18375b; --academic-border: #dbe4ef; }
 body { line-height: 1.75; }
-#quarto-content { max-width: 1120px; margin-inline: auto; }
+#quarto-content { width: min(100% - 2.5rem, 1200px); max-width: 1200px; margin-inline: auto; }
 .navbar { box-shadow: 0 2px 14px rgba(20,43,73,.09); }
 .navbar-brand { font-family: Georgia, "Times New Roman", serif; font-size: 1.2rem; letter-spacing: .015em; }
 .navbar .nav-link { font-weight: 500; }
@@ -109,3 +109,12 @@ ul li { margin-bottom: .4rem; }
 .accessibility-preview a:hover img { transform: translateY(-3px); }
 .accessibility-preview small { display: block; margin-top: .45rem; color: #52647b; font-size: .78rem; }
 @media (max-width: 620px) { .accessibility-layout { grid-template-columns: 1fr; } .accessibility-preview { text-align: left; } .accessibility-preview img { max-width: 260px; } }
+
+/* Consistent page width and side margins across all website sections */
+@media (min-width: 992px) {
+  .quarto-about-trestles { width: 100%; max-width: none; }
+  .quarto-about-trestles .about-contents { max-width: none; }
+}
+@media (max-width: 767px) {
+  #quarto-content { width: calc(100% - 1.5rem); }
+}
