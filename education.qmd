@@ -17,7 +17,7 @@ Zurich, Switzerland
 
 Graduate studies in biostatistics, building on my background in mathematics and statistical computing.
 
-[University website](https://www.uzh.ch/en.html) · [About the MSc programme](https://www.uzh.ch/en/studies/programs/master.html)
+[Biostatistics programme website](https://www.biostat.uzh.ch/home) · [University of Zurich](https://www.uzh.ch/en.html)
 
 :::
 :::
@@ -27,7 +27,7 @@ Graduate studies in biostatistics, building on my background in mathematics and 
 ![Aristotle University of Thessaloniki campus](https://commons.wikimedia.org/wiki/Special:FilePath/Aristotelian%20University.jpg?width=900){fig-alt="Aristotle University of Thessaloniki campus"}
 :::
 ::: {.education-details}
-### Aristotle University of Thessaloniki
+### Department of Mathematics — Aristotle University of Thessaloniki
 
 **BSc in Mathematics** · 2019–2024
 
@@ -35,7 +35,7 @@ Thessaloniki, Greece
 
 Graduated with **7.91/10**, ranking **13th among 137 graduates**. My undergraduate project applied Markov chain theory and R to patterns of cancer metastasis.
 
-[University website](https://www.auth.gr/en/) · [Read about my undergraduate project](research.qmd)
+[Department of Mathematics](https://math.auth.gr/) · [Aristotle University of Thessaloniki](https://www.auth.gr/en/) · [Undergraduate project](research.qmd)
 
 :::
 :::
