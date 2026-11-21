@@ -1,5 +1,23 @@
 ---
-title: "Research"
+title: "Research & Projects"
 ---
 
-Information about my research interests and projects will be added soon.
+## Undergraduate project: Markov chains and cancer metastasis
+
+**Using Markov Chain Theory and R to Describe Cancer Metastasis Patterns Based on 3,827 Autopsies**
+
+BSc Mathematics project, Aristotle University of Thessaloniki. Supervisor: Associate Professor Alexandra Papadopoulou.
+
+The project applied Markov chain theory and R to the study of cancer metastasis patterns.
+
+## iGEM Thessaloniki (2021–2022)
+
+As a team member and group leader, I contributed to a synthetic biology project exploring a new approach to diagnosing and treating brain cancer. The team received a **silver medal** at the iGEM competition.
+
+## Mathematics education
+
+**Sfondylis, S., & Moustakas, D. (2025).** *From the Blackboard to Adventure: A Mathematical “Treasure Hunt” for Triangle.* Presented at the 3rd Conference on Mathematics and Their Teaching, École Franco-Hellénique de Kalamari.
+
+## Accessibility in higher education
+
+I initiated and developed an informational video guide to support navigation and accessibility for students with disabilities at Aristotle University of Thessaloniki. The work received recognition from the Deanship of the School of Sciences in 2025.
