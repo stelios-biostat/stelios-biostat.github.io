@@ -2,4 +2,36 @@
 title: "Curriculum Vitae"
 ---
 
-My curriculum vitae will be available here soon.
+## Education
+
+- **MSc in Biostatistics**, University of Zurich — September 2026–present
+- **BSc in Mathematics**, Aristotle University of Thessaloniki — October 2019–July 2024; grade 7.91/10 (13th of 137 graduates)
+
+## Professional experience
+
+- **EU Project Coordinator**, Aetoi Thessaloniki — December 2025–present. Educational materials, international partnerships, and European funding initiatives for inclusive sports.
+- **Customer Service**, Samsung — August–December 2025. Technical support and troubleshooting.
+- **Data Analyst**, PoliHome — August–November 2024. Data processing, Excel, and macros.
+- **Accreditation Panel Member**, Hellenic Authority for Higher Education — September 2021–September 2024. External evaluation of university departments and official reporting.
+
+## Academic activities
+
+- **iGEM Thessaloniki**, team member and group leader — 2021–2022; silver medal.
+- **Mathematics teaching internship**, 1st High School of Evosmos — March–May 2023.
+- **Conference presentation**, 3rd Conference on Mathematics and Their Teaching — March 2025.
+
+## Selected awards
+
+- **School of Sciences, Aristotle University of Thessaloniki** — 2025 award for an accessibility video guide.
+- **School of Health Sciences, Aristotle University of Thessaloniki** — 2023 award recognizing the iGEM scientific project.
+- **iGEM Foundation** — 2022 silver medal.
+
+## Technical skills
+
+**Programming and analysis:** R, Python, Excel, SPSS, MATLAB; basic C++.
+
+## Languages
+
+Greek (native), English (C2; IELTS Academic 8/9), German (Goethe B1/B2 skills as reported in CV).
+
+*A downloadable CV can be added after reviewing the version intended for public distribution.*
