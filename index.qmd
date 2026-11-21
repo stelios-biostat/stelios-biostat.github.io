@@ -14,23 +14,32 @@ about:
 
 I am an MSc student in **Biostatistics at the University of Zurich**, with a BSc in **Mathematics from Aristotle University of Thessaloniki**.
 
-My academic background combines mathematics, statistical computing, and applications in health and life sciences. My undergraduate project used **Markov chain theory and R** to examine patterns of cancer metastasis using data from 3,827 autopsies.
+My background combines mathematics, statistical computing, and applications in health and life sciences. My undergraduate project used **Markov chain theory and R** to study patterns of cancer metastasis.
 
-I have also contributed to an award-winning synthetic biology project with **iGEM Thessaloniki**, and have experience in academic evaluation, data analysis, and international inclusion-focused projects.
+## Explore
 
-## Education
+::: {.explore-grid}
+::: {.explore-card}
+### [Education](education.qmd)
 
-**MSc in Biostatistics** — University of Zurich, 2026–present
+My studies at the University of Zurich and Aristotle University of Thessaloniki, with campus photographs and university links.
 
-**BSc in Mathematics** — Aristotle University of Thessaloniki, 2019–2024
+[View education →](education.qmd)
+:::
 
-Graduated with a grade of 7.91/10, ranking 13th among 137 graduates.
+::: {.explore-card}
+### [Research & Projects](research.qmd)
 
-## Selected highlights
+Cancer metastasis modelling, iGEM Thessaloniki, mathematics education, and accessibility.
 
-- **iGEM Thessaloniki:** Team member and group leader; silver medal in the 2022 competition.
-- **Academic recognition:** Award from the School of Sciences at Aristotle University of Thessaloniki in 2025 for an accessibility video guide.
-- **Academic evaluation:** Accreditation panel member for the Hellenic Authority for Higher Education (2021–2024).
-- **Conference presentation:** Co-presented work on a mathematical treasure hunt for teaching triangles (2025).
+[Explore projects →](research.qmd)
+:::
 
-For more detail, see [Research](research.qmd) and [CV](cv.qmd).
+::: {.explore-card}
+### [Curriculum Vitae](cv.qmd)
+
+Academic activities, professional experience, awards, technical skills, and languages.
+
+[View CV →](cv.qmd)
+:::
+:::
