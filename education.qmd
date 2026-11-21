@@ -1,0 +1,43 @@
+---
+title: "Education"
+---
+
+My academic training spans biostatistics and mathematics.
+
+::: {.education-card}
+::: {.education-photo}
+![Main building of the University of Zurich](https://commons.wikimedia.org/wiki/Special:FilePath/Universit%C3%A4t%20Z%C3%BCrich%2C%20Hauptgeb%C3%A4ude.jpg?width=900){fig-alt="University of Zurich main building"}
+:::
+::: {.education-details}
+### University of Zurich
+
+**MSc in Biostatistics** · 2026–present
+
+Zurich, Switzerland
+
+Graduate studies in biostatistics, building on my background in mathematics and statistical computing.
+
+[University website](https://www.uzh.ch/en.html) · [About the MSc programme](https://www.uzh.ch/en/studies/programs/master.html)
+
+:::
+:::
+
+::: {.education-card}
+::: {.education-photo}
+![Aristotle University of Thessaloniki campus](https://commons.wikimedia.org/wiki/Special:FilePath/Aristotelian%20University.jpg?width=900){fig-alt="Aristotle University of Thessaloniki campus"}
+:::
+::: {.education-details}
+### Aristotle University of Thessaloniki
+
+**BSc in Mathematics** · 2019–2024
+
+Thessaloniki, Greece
+
+Graduated with **7.91/10**, ranking **13th among 137 graduates**. My undergraduate project applied Markov chain theory and R to patterns of cancer metastasis.
+
+[University website](https://www.auth.gr/en/) · [Read about my undergraduate project](research.qmd)
+
+:::
+:::
+
+<small>Photographs: [University of Zurich](https://commons.wikimedia.org/wiki/File:Universit%C3%A4t_Z%C3%BCrich,_Hauptgeb%C3%A4ude.jpg) (Jürg-Peter Hug, Wikimedia Commons, CC BY-SA) and [Aristotle University of Thessaloniki](https://commons.wikimedia.org/wiki/File:Aristotelian_University.jpg) (JFKennedy, Wikimedia Commons, public domain).</small>
