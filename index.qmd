@@ -36,6 +36,30 @@ Cancer metastasis modelling, iGEM Thessaloniki, mathematics education, and acces
 :::
 
 ::: {.explore-card}
+### [Experience](experience.qmd)
+
+Professional roles in project coordination, data analysis, technical support, and higher education quality assurance.
+
+[View experience →](experience.qmd)
+:::
+
+::: {.explore-card}
+### [Awards & Honors](awards.qmd)
+
+Academic distinctions, community recognition, and the iGEM silver medal.
+
+[View awards →](awards.qmd)
+:::
+
+::: {.explore-card}
+### [Media & Outreach](media.qmd)
+
+Television appearances, interviews, press coverage, and public engagement.
+
+[Explore media →](media.qmd)
+:::
+
+::: {.explore-card}
 ### [Curriculum Vitae](cv.qmd)
 
 Academic activities, professional experience, awards, technical skills, and languages.
