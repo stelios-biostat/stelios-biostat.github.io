@@ -70,6 +70,8 @@ The activity encouraged active participation and mathematical reasoning; the aut
 
 ## Accessibility in higher education
 
+::: {.accessibility-layout}
+::: {.accessibility-text}
 **2025 · Social Contribution Award · Faculty of Sciences, Aristotle University of Thessaloniki**
 
 I created an **accessibility video guide for people with disabilities**, documenting accessible routes and facilities within the Department of Mathematics, the Faculty of Sciences, and the wider Aristotle University of Thessaloniki campus. The guide is featured on the Department of Mathematics' official accessibility page.
@@ -77,3 +79,11 @@ I created an **accessibility video guide for people with disabilities**, documen
 For this initiative and its contribution to disability awareness and inclusion, I received the **2025 Social Contribution Award from the Faculty of Sciences** at Aristotle University of Thessaloniki.
 
 [Official Department of Mathematics accessibility page](https://math.auth.gr/en/access/) · [Watch the accessibility video on YouTube](https://www.youtube.com/watch?v=ztu2QVhWIkw) · [University award announcement (PDF)](https://www.auth.gr/wp-content/uploads/ANNOUNCEMENT-5.pdf)
+:::
+
+::: {.accessibility-preview}
+<a href="images/ameagit.png" target="_blank" rel="noopener noreferrer" aria-label="View accessibility initiative photo at full size"><img src="images/ameagit.png" alt="Photo accompanying the accessibility initiative at Aristotle University of Thessaloniki" loading="lazy"></a>
+
+<small>Accessibility initiative · Click to enlarge</small>
+:::
+:::
