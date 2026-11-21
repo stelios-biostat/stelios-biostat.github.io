@@ -44,11 +44,29 @@ The project received a **silver medal** at the 2022 iGEM competition.
 :::
 :::
 
-## Mathematics education
+## Mathematics education — Conference presentation
 
-**2025 · Conference presentation**
+::: {.kalamari-layout}
+::: {.kalamari-text}
+**Conference presentation · Mathematics education**
 
-**Sfondylis, S., & Moustakas, D. (2025).** *From the Blackboard to Adventure: A Mathematical “Treasure Hunt” for Triangle.* Presented at the 3rd Conference on Mathematics and Their Teaching, École Franco-Hellénique de Kalamari.
+**Sfondylis, S., & Moustakas, D.** *From the Blackboard to Adventure: A Mathematical “Treasure Hunt” for Triangle.*
+
+A mathematics education presentation exploring a classroom treasure-hunt activity for teaching triangles, bringing together mathematical problem-solving and an interactive learning experience.
+
+Presented at the **Conference on Mathematics and Their Teaching**, École Franco-Hellénique de Kalamari, Thessaloniki.
+
+[Conference website](https://www.kalamari.gr/index.php/upcoming-events/events/synedrio-maths) · [2026 conference proceedings (PDF)](https://www.kalamari.gr/images/2026/Praktika%202026_maths.pdf)
+
+<small>The exact pages of this contribution in the proceedings have not yet been verified.</small>
+:::
+
+::: {.kalamari-preview}
+<a href="images/Kalamari.png" target="_blank" rel="noopener noreferrer" aria-label="View the first page of the mathematics education contribution"><img src="images/Kalamari.png" alt="First page of the mathematics education conference contribution in Greek" loading="lazy"></a>
+
+<small>First page · Click to enlarge</small>
+:::
+:::
 
 ## Accessibility in higher education
 
