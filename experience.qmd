@@ -8,7 +8,7 @@ Professional roles and service activities, listed in reverse chronological order
 
 ::: {.eu-experience style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start;"}
 ::: {.eu-details style="flex: 1 1 480px; min-width: 0;"}
-**Aristotle University of Thessaloniki (AUTH) & Aetoi Thessaloniki**
+**Aristotle University of Thessaloniki (AUTH) & Aetoi Thessalonikis**
 
 *January 2026 – Present*
 
@@ -32,7 +32,7 @@ My work spans the project lifecycle, from identifying funding opportunities and 
 ::: {.eu-logos style="flex: 0 1 190px; text-align: center;"}
 [![Aristotle University of Thessaloniki](images/authlogo.png){width=170px}](https://www.auth.gr/en/)
 
-[![Aetoi Thessaloniki](images/Aetoi%20logo%20blue%20EN.png){width=170px}](https://aetoithessalonikis.gr/en/)
+[![Aetoi Thessalonikis](images/Aetoi%20logo%20blue%20EN.png){width=170px}](https://aetoithessalonikis.gr/en/)
 :::
 :::
 
