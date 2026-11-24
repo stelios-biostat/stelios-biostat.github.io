@@ -36,11 +36,23 @@ My work spans the project lifecycle, from identifying funding opportunities and 
 :::
 :::
 
-## Customer Service
+## Customer Service & Technical Support
 
-**Samsung · August–December 2025**
+::: {.samsung-experience style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start;"}
+::: {.samsung-details style="flex: 1 1 480px; min-width: 0;"}
+**Samsung · Full-time**
 
-Technical support and troubleshooting.
+*August 2025 – December 2025*
+
+- Provided customer support for Samsung products and services, focusing on customer satisfaction and issue resolution.
+- Diagnosed and resolved technical issues across multiple Samsung product lines.
+- Provided product education and troubleshooting guidance to customers.
+:::
+
+::: {.samsung-logo style="flex: 0 1 190px; text-align: center;"}
+[![Samsung](images/samsunglogo.png){width=170px}](https://www.samsung.com/)
+:::
+:::
 
 ## Data Analyst
 
