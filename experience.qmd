@@ -32,7 +32,7 @@ My work spans the project lifecycle, from identifying funding opportunities and 
 ::: {.eu-logos style="flex: 0 1 190px; text-align: center;"}
 [![Aristotle University of Thessaloniki](images/authlogo.png){width=170px}](https://www.auth.gr/en/)
 
-![Aetoi Thessaloniki](images/Aetoi%20logo%20blue%20EN.png){width=170px}
+[![Aetoi Thessaloniki](images/Aetoi%20logo%20blue%20EN.png){width=170px}](https://aetoithessalonikis.gr/en/)
 :::
 :::
 
