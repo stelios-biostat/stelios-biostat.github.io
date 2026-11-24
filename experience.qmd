@@ -56,9 +56,21 @@ My work spans the project lifecycle, from identifying funding opportunities and 
 
 ## Data Analyst
 
-**PoliHome · August–November 2024**
+::: {.polihome-experience style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start;"}
+::: {.polihome-details style="flex: 1 1 480px; min-width: 0;"}
+**PoliHome · Full-time**
 
-Data processing, Excel, and macros.
+*August 2024 – November 2024*
+
+- Worked within the Data Entry department, managing and processing large volumes of data.
+- Maintained data accuracy within the company's database.
+- Used Microsoft Excel, coding, and macros to support data processing.
+:::
+
+::: {.polihome-logo style="flex: 0 1 190px; text-align: center;"}
+[![PoliHome](images/polihomelogo.jpg){width=170px}](https://www.polihome.gr/)
+:::
+:::
 
 ## Accreditation Panel Member
 
