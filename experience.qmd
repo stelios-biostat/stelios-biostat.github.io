@@ -4,11 +4,37 @@ title: "Experience"
 
 Professional roles and service activities, listed in reverse chronological order. Further details and selected achievements will be added.
 
-## EU Project Coordinator
+## European Projects Coordinator
 
-**Aetoi Thessaloniki · December 2025–present**
+::: {.eu-experience style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start;"}
+::: {.eu-details style="flex: 1 1 480px; min-width: 0;"}
+**Aristotle University of Thessaloniki (AUTH) & Aetoi Thessaloniki**
 
-Educational materials, international partnerships, and European funding initiatives focused on inclusive sports.
+*January 2026 – Present*
+
+I contribute to the development, coordination, and implementation of EU-funded projects across education, research, social inclusion, disability, and sport.
+
+My work spans the project lifecycle, from identifying funding opportunities and establishing international partnerships to proposal development, project implementation, and delivery.
+
+**Funding programmes:** Erasmus+, Horizon Europe, CERV, and other European funding instruments.
+
+**Key responsibilities and achievements:**
+
+- Identification and evaluation of European funding calls.
+- Development of international partnerships and expansion of expert networks.
+- Preparation and writing of project proposals, including successful funding applications.
+- Coordination and implementation of EU-funded projects.
+- Development of educational materials, research reports, questionnaires, digital platforms, and other project deliverables.
+- Organisation of project meetings, workshops, and events.
+- Participation in transnational project meetings and international project-related travel, collaborating with partners across Europe.
+:::
+
+::: {.eu-logos style="flex: 0 1 190px; text-align: center;"}
+[![Aristotle University of Thessaloniki](images/authlogo.png){width=170px}](https://www.auth.gr/en/)
+
+![Aetoi Thessaloniki](images/Aetoi%20logo%20blue%20EN.png){width=170px}
+:::
+:::
 
 ## Customer Service
 
